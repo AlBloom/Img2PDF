@@ -17,4 +17,4 @@ This is an image to pdg converter app, built using python programing language us
 
 ## Installation
 1. Clone this repository or copy the script.
-2. Install the required packages (if not already installed):
+2. Install the required packages.
